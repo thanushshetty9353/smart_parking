@@ -70,6 +70,6 @@ Contact 📬
 For any queries or suggestions, please contact me at:
 
 Email: thanushshetty7@example.com
-GitHub: GitHub Profile
+GitHub:[ GitHub Profile](https://github.com/thanushshetty9353)
 markdown
 Copy code
